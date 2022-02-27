@@ -19,6 +19,6 @@ enum Exercise
 };
 
 void wrong_exercise_number();
-void choose_exercise();
+inline void choose_exercise();
 
 #endif // EXERCISES_H
